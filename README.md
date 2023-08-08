@@ -2,6 +2,10 @@
 
 UWB CSS 586 Deep Learning Research Project: Clustering Movie Plot Summary Embeddings
 
+## ACM Conference Paper (Draft)
+
+[Movie Genre Discovery: Clustering Plot Summary Embeddings](https://drive.google.com/file/d/1Ftk1xabZ--9k4IpOYQ3scjdqx3IA2u3c/view?usp=sharing)
+
 ## About
 
 This project aims to enhance movie genre categorization by employing natural language processing techniques. We analyzed movie plot summaries using various combinations of embedding architectures (Word2Vec, SBERT, Longformer) and clustering methods (K-Means and Spectral Clustering). The SBERT and Spectral Clustering combination yielded the most meaningful movie clusters, providing a promising foundation for fine-grained genre discovery. These findings have potential applications in movie recommendation systems or content discovery platforms. Future work may further improve the quality of clusters and capture nuanced movie themes.
